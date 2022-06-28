@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/user_name2"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginEnd="8dp"
+        android:maxWidth="256dp"
+        android:text="不愿意透露姓名的大猩猩同学不愿意透露姓名的大猩猩同学不愿意透露姓名的大猩猩同学"
+        android:textColor="@color/green3"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/content_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:maxWidth="350dp"
+        android:text="爸爸妈妈你们不要小看我~爸爸妈妈你们不要小看我~爸爸妈妈你们不要小看我~\n爸爸妈妈你们不要小看我~"
+        android:textColor="@color/green1"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_name2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

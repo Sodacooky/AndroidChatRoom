@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3425" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3425" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3425" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3425" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3425" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/drawable/side_nav_bar.xml" value="0.3425" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.23862115127175368" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout-w1240dp/dialog_create_room.xml" value="0.23862115127175368" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.278515625" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_chat_left_comment.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_chat_right_comment.xml" value="0.3703125" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_chat_system_comment.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_main.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_main_collect_image.xml" value="0.3703125" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_main_collect_item.xml" value="0.277734375" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/activity_main_collect_text.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/chat_menu.xml" value="0.3703125" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/content_main.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/content_scrolling.xml" value="0.3567708333333333" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/dialog_change_name.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/dialog_chat_menu.xml" value="0.3703125" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/dialog_collect_operation.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/dialog_create_room.xml" value="0.3703125" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/dialog_join_room.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/dialog_userlist.xml" value="0.277734375" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/layout/dialog_userlist_item.xml" value="0.37135416666666665" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/menu/activity_chat_menu.xml" value="0.3703125" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/menu/activity_main_drawer.xml" value="0.19114583333333332" />
+        <entry key="..\:/_Work/JavaRepository/ChatRoom/ChatRoomClient/app/src/main/res/xml/network.xml" value="0.20380434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

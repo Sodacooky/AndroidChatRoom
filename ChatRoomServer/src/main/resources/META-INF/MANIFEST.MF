@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: group.chatroom.chatroomserver.Application
+Class-Path: spring-boot-starter-json-2.7.0.jar spring-aop-5.3.20.jar log
+ 4j-api-2.17.2.jar jul-to-slf4j-1.7.36.jar spring-boot-starter-2.7.0.jar
+  spring-beans-5.3.20.jar jackson-module-parameter-names-2.13.3.jar jaka
+ rta.annotation-api-1.3.5.jar jackson-annotations-2.13.3.jar logback-cla
+ ssic-1.2.11.jar spring-boot-starter-logging-2.7.0.jar tomcat-embed-webs
+ ocket-9.0.63.jar spring-webmvc-5.3.20.jar logback-core-1.2.11.jar sprin
+ g-boot-starter-tomcat-2.7.0.jar spring-context-5.3.20.jar spring-boot-a
+ utoconfigure-2.7.0.jar tomcat-embed-el-9.0.63.jar spring-expression-5.3
+ .20.jar slf4j-api-1.7.36.jar spring-jcl-5.3.20.jar spring-boot-starter-
+ web-2.7.0.jar tomcat-embed-core-9.0.63.jar spring-boot-2.7.0.jar spring
+ -core-5.3.20.jar jackson-core-2.13.3.jar jackson-databind-2.13.3.jar ja
+ ckson-datatype-jsr310-2.13.3.jar spring-web-5.3.20.jar snakeyaml-1.30.j
+ ar log4j-to-slf4j-2.17.2.jar jackson-datatype-jdk8-2.13.3.jar
+
